@@ -23,7 +23,9 @@ This project is made Windows Form and DevExpress.
 <h6>Desktop Login Form</h6>
 <img src="https://i.hizliresim.com/3zhupxt.png" alt="Login Form"/> 
 <br/><br/><br/>
+
 #### Admin Dashboard
+
 <h6>Index</h6>
 <img src="https://i.hizliresim.com/5zo7ndg.png" alt="Admin Index"/>
 <br/>
