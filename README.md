@@ -2,6 +2,8 @@
 
 This project is made Windows Form and DevExpress.
 
+<a href="https://github.com/mehmetacisu/JobTrackingWebPanel">You can check it web application</a>
+
 ### Used Technologies
 
 - Frontend 
