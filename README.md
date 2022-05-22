@@ -9,7 +9,7 @@ This project is made Windows Form and DevExpress.
 - Frontend 
     * [DevExpress](https://www.devexpress.com/)
 - Backend  
-    * [Windows Forms](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/windows-forms-overview?view=netframeworkdesktop-4.8)
+    * [C# Windows Forms](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/windows-forms-overview?view=netframeworkdesktop-4.8)
 - Database 
     * [MS SQL](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
 - ORM
